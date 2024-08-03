@@ -22,7 +22,7 @@
         android:layout_width="336dp"
         android:layout_height="194dp"
         android:layout_marginBottom="350dp"
-        android:fontFamily="@font/lacquer"
+        android:fontFamily="@font/libre_franklin_bold"
         android:text="CloudPOS Login"
         android:textAlignment="center"
         android:textColor="#FFFFFF"
